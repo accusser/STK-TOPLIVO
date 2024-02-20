@@ -11,7 +11,5 @@
     'setTotal' => '1',
     'toPlaceholder' => 'tempout',
     ]}
-    [[+total:is=`0`:then=``:else=`<div class="products_filter_block_row2_cols_col2"><span>[[+total]]</span></div>`]]
-
-    `]]
+    [[+total:is=`0`:then=``:else=`<div class="products_filter_block_row2_cols_col2"><span>[[+total]]</span></div>`]]`]]
 </div>

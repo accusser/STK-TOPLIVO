@@ -1,0 +1,1 @@
+<nav class="all_section1_smallhead">{$output}</nav>

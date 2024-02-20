@@ -1,0 +1,8 @@
+<div class="products_filter_block " id="mse2_[[+table]][[+delimeter]][[+filter]]">
+    <div class="products_filter_block_row1">
+        <span class="with_red_dot">Используйте для фильтрации новостей</span>
+    </div>
+    <div class="products_filter_block_row2" data-pageContent-filter>
+        [[+rows]]
+    </div>
+</div>

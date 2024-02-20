@@ -1,0 +1,1 @@
+<a class="crumb" href="{$link}">{$menutitle}</a>
